@@ -5,3 +5,12 @@
   min-height: 600px;
   color: #fff;
 }
+
+.main-header .showcase {
+  padding-top: 100px;
+}
+
+.active-link {
+  color: #d847f1;
+  font-weight: bold;
+}
