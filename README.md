@@ -6,12 +6,12 @@ Multipage Cloud Hosting Front-End UI Theme using Materialize CSS.
 
 ## Features  
 
-- Follow Google material theme guidelines.
+- Google material design.
 - Popup login form.
 - Transparent nav bar.
-- Multipage Theam
-- Sliding Testimonial section
-- Responsive Design.
+- Multipage theme.
+- Sliding testimonial section.
+- Responsive design.
 
 ## Author
 
